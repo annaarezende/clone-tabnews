@@ -4,6 +4,7 @@
   "description": "Study to learn how to develop a project from scratch",
   "main": "index.js",
   "scripts": {
+    "dev":"next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
